@@ -21,6 +21,14 @@ The bar plots display the progress by month because the bar plots become too unw
 Having to start over at zero at the start of each month is depressing, but it is also a chance to renew your commitment to your writing goals.
 One alternative would be to display the progress by semester.
 
+Below are real examples from May 2020. 
+Note how I exceeded the time goal while lagging behind on the word goal.
+Word count is not enough to track real progress made on vital non-generative writing activities related to the writing projects.
+
+<p align="center"><img src="images/May2020words.png"></p>
+
+<p align="center"><img src="images/May2020minutes.png"></p>
+
 I created a workbook to do the above.
 It should take only a minute a day to make the entries and to check on your monthly progress.
 
