@@ -1,10 +1,9 @@
 # writingProgress2022
-## Workbook to track write progress with automated bar plots. Supports tracking multiple projects.
+## Workbook to track progress on writing projects with automated bar plots
 
 ### Synopsis
 The attached Open Office Document (WritingProgress2022tenProjectsTest.ods) can be imported into Google Sheets where it was created.
-You can open this docment in LibreOffice for off-line use or you can import them into Google Sheets.
-I do the latter. 
+You can also open this docment in LibreOffice for off-line use.
 After spending 20-60 minutes customizing the workbook for your current and planned writing projects, 
 you should be set for tracking your writing progress for 2022.
 
