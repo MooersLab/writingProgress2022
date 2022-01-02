@@ -24,6 +24,8 @@ One alternative would be to display the progress by semester.
 Below are real examples from May 2020. 
 Note how I exceeded the time goal while lagging behind on the word goal.
 Word count is not enough to track real progress made on vital non-generative writing activities related to the writing projects.
+This my beef with writing guides that suggest that tracking word count is sufficient. 
+A small minority of the effort behind an academic paper in the physical and biological sciences is the generation of new text. 
 
 <p align="center"><img src="images/May2020words.png"></p>
 
@@ -63,13 +65,16 @@ The cumulative sums are shown side-by-side with my goal for each day: 240 minute
 I choose 240 minutes because this is the maximum amount of time that professional writers spend a day generating new text.
 Of course, you can spend 720 minutes in a day on the writing related tasks of figure making or data analysis.
 You can also make steady progress with as little as 20 minutes a day, especially if you have only one writing project.
-I choose 1000 words a day because a higher goal tends to drive me to write too much text, most of which I will never publish. 
+I choose 1000 words a day because higher goals like 2000 words a day drove me to write too much text, most of which I will never publish. 
 As a result of this excess writing, I was spending less time on the important non-generative writing related tasks like making figures, editing the text, reading related papers, data analysis, and the many other activities that advance a writing project.
+
 You can adjust these daily goals by editing the appropriate columns in the min.day and word.day sheets.
+500 words and 120 minutes per day may be more realistic goals for beginners; it depends on what works for you.
+That is all that matters.
 
 The workbook is set up for 2022.
 It can be extended to 2023 and beyond if you want to track your effort on projects that span several years.
-Alternatively, you can make a copy of the new version of this workbook and edited it for a fresh start at the beginning of 2023.
+Alternatively, you can make a copy of the new version of this workbook and edited it for a fresh start at the beginning of 2023, if I fail to remember to post a fresh copy for 2023.
 
 I have included only ten projects in this demo workbook so that it is not overwhelming.
 To customize the workbook with project names, you have to relabel the project worksheets, column names, and the formulas in the min.day and word.day sheets.
