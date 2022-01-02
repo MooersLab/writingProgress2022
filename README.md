@@ -104,6 +104,8 @@ If you shorten the titles of the sheets, the shortened names will be automatical
 You can shuffle the order of the tabs at the bottom of the workbook without ill effect.
 You should be able to do likewise for the project columns of the min.day and word.day sheets.
 
-I have taken care of the other barrier to using the workbook which is the coding of the monthly bar plots, which can be tedious and which has deterred me from using the workbook in the past when I was using Excel to edit the workbook; I had trouble recalling how to edit the data ranges at the start of each month. 
+I have taken care of the other barrier to using the workbook, which is the coding of the monthly bar plots.
+This task can be tedious and which has deterred me from using the workbook in the past when I was using Excel to edit the workbook off line.
+I had trouble recalling how to edit the data ranges at the start of each month. 
 I have since found that the setting up of the plots is easier in Google Sheets than in Excel.
-I find it to be more efficient to do the plot setups all at once for the entire year.
+I also find it to be more efficient to do the plot setups all at once for the entire year.
