@@ -32,14 +32,13 @@ A small minority of the effort behind an academic paper in the physical and biol
 
 <p align="center"><img src="images/May2020minutes.png"></p>
 
-I created a workbook to do the above.
-
+I created a workbook of spreadsheets in Google Sheets to do the above progress tracking.
 This workbook started out as an Excel workbook about five or six years ago.
 I fondly recalled a period when I used it daily for several months and I made some real progress.
-I moved it to Google Sheets three years ago.
+I moved it to Google Sheets three years ago and made a massive revision to the layout to include the tracking of time spent.
 
-I stored this workbook on my Google Drive.
-I added a link to this workbook to the top row of my private homepage, so I can reach this workbook with the click of a link.
+I store this workbook on my Google Drive.
+I add a link to this workbook to the top row of my private homepage, so I can reach this workbook with the click of a link.
 
 You can also make a bash alias to open the workbook in a webrowser by entering the alias name on the command line.
 For example, I open my writing progress workbook by entering `bwp' for Blaine's writing progress. 
