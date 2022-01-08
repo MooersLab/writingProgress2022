@@ -28,9 +28,9 @@ Word count is not enough to track real progress made on vital non-generative wri
 This my beef with many writing guides for academics is that they suggest that tracking word count is sufficient. 
 A small minority of the effort behind an academic paper in the physical and biological sciences is the generation of new text. 
 
-<p align="center"><img src="images/May2020words.png" style="width: 85vw; min-width: 330px;"></p>
+<p align="center"><img src="images/May2020words.png" style="width: 65vw; min-width: 330px;"></p>
 
-<p align="center"><img src="images/May2020minutes.png" style="width: 85vw; min-width: 330px;"></p>
+<p align="center"><img src="images/May2020minutes.png" style="width: 65vw; min-width: 330px;"></p>
 
 I created a workbook of spreadsheets in Google Sheets to do the above progress tracking.
 This workbook started out as an Excel workbook about five or six years ago.
@@ -148,6 +148,6 @@ I used the third example on this [webpage of the Geeks for Geeks website](https:
 I paste the selected text into the text area of the attached wordCount.html file, and it reports the word count.
 I stored this html file with my homepage (index3.html) on my harddrive.
 I made a link to wordCount.html from my index3.html file.
-In a few seconds, I can click on that link and paste though my clipboard a text selection into the text area of this page and get back the word count.
+In a few seconds, I can click on that link and paste from my clipboard a text selection into the text area of this page and get back the word count.
 
-<p align="center"><img src="images/countWords.png" style="width: 85vw; min-width: 330px;"></p>
+<p align="center"><img src="images/countWords.png" style="width: 65vw; min-width: 330px;"></p>
