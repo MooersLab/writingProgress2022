@@ -129,9 +129,25 @@ If you shorten the titles of the sheets in the tabs at the bottom of the workboo
 You can shuffle the order of the tabs at the bottom of the workbook without ill effect.
 You should be able to do likewise for the project columns of the min.day and word.day sheets.
 
+### Word count of selected text
+
+One problem that I ran into was getting word counts for the selected text that I wrote for a specific writing project.
+You can get the word count of everything in 750words.com or in an entire document on Overleaf but not of specific text selection.
+Instead, I have to paste the selected text in a fresh document in a text editor or word processor and then fetch the word count.
+This parameter can be hard to obtain from some text editors.
+
+A simpler and faster solution is to paste the text into a text area of a webpage that returns the word count.
+I used the third example on this website  \footnote{\url{https://www.geeksforgeeks.org/how-to-make-a-word-count-in-textarea-using-javascript/}}.
+I paste the selected text into the text area of the attached wordCount.html file, and it reports the word count.
+I stored this html file with my homepage (index3.html) on my harddrive.
+I made a link to wordCount.html from my index3.html file.
+In a few seconds, I can click on that link and paste though my clipboard a text selection into the text area of this page and get back the word count.
+
 I have taken care of the other barrier to using the workbook, which is the coding of the monthly bar plots.
 This task can be tedious and has deterred me from using the workbook in the past when I was using Excel to edit the workbook off line.
 I had trouble recalling how to edit the data ranges at the start of each month. 
 Fear of expending effort on this task set up a motivation barrier.
 I have since found that the setting up of the plots is easier in Google Sheets than in Excel.
 I also find it to be more efficient to do the plot setups all at once for the entire year.
+
+<p align="center"><img src="images/countWords.png"></p>
