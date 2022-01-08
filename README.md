@@ -144,7 +144,7 @@ Instead, I have to paste the selected text in a fresh document in a text editor 
 This parameter can be hard to obtain from some text editors.
 
 A simpler and faster solution is to paste the text into a text area of a webpage that returns the word count.
-I used the third example on this website  \footnote{\url{https://www.geeksforgeeks.org/how-to-make-a-word-count-in-textarea-using-javascript/}}.
+I used the third example on this [webpage of the Geeks for Geeks website]  (https://www.geeksforgeeks.org/how-to-make-a-word-count-in-textarea-using-javascript/).
 I paste the selected text into the text area of the attached wordCount.html file, and it reports the word count.
 I stored this html file with my homepage (index3.html) on my harddrive.
 I made a link to wordCount.html from my index3.html file.
