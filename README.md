@@ -108,7 +108,7 @@ This will open a scroll menu that you can use to quickly select the appropriate 
 See the image below.
 I recommend this approach when the number of tabs becomes too large for all of them to be seen at once.
 
-<p align="center"><img src="images/scollProjects.png" style="width: 50vw; min-width: 165px;"></p>
+<p align="center"><img src="images/scrollProjects.png" style="width: 50vw; min-width: 165px;"></p>
 
 To cope with this problem of finding the correct project, you can also zoom out on the workbook to shrink the size of the tabs at the bottom of the workbook so that more tabs are displayed. 
 You can also color code the tabs by the category of the writing project.
