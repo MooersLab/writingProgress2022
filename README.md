@@ -24,7 +24,7 @@ One alternative would be to display the progress by semester.
 
 Below are real examples from May 2020. 
 Note how I exceeded the time goal while lagging behind on the word goal.
-Word count is not enough to track real progress made on vital non-generative writing activities related to the writing projects.
+Word count is not enough to track real progress made on vital non-generative writing activities related to the writing project.
 This my beef with many writing guides for academics is that they suggest that tracking word count is sufficient. 
 A small minority of the effort behind an academic paper in the physical and biological sciences is the generation of new text. 
 
@@ -34,27 +34,28 @@ A small minority of the effort behind an academic paper in the physical and biol
 
 I created a workbook of spreadsheets in Google Sheets to do the above progress tracking.
 This workbook started out as an Excel workbook about five or six years ago.
-I fondly recalled a period when I used it daily for several months and I made some real progress.
-I moved it to Google Sheets three years ago and made a massive revision to the layout to include the tracking of time spent.
+I fondly recalled a period when I used it daily for several months, and I made some real progress.
+I moved it to Google Sheets three years ago and made a massive revision to the layout to include the tracking of time spent because it was not enough to track words written.
 
 I store this workbook on my Google Drive.
 I add a link to this workbook to the top row of my private homepage, so I can reach this workbook with the click of a link.
 
 You can also make a bash alias to open the workbook in a webrowser by entering the alias name on the command line.
-For example, I open my writing progress workbook by entering `bwp' for Blaine's writing progress. 
+For example, I open my writing progress workbook in Google Chrome by entering `wpc'. 
+I have similar aliases for other browsers like wps for use with Safari and wpf for use with FireFox.
 Here is an example of the bash code that can be customized and added to your .bashrc or .zshrc file:
 
 ```bash
 alias openc="open -a Google\ Chrome.app"
-alias bwp='openc https://docs.google.com/spreadsheets/d/<insert workbook specific code>'
+alias wpc='openc https://docs.google.com/spreadsheets/d/<insert workbook specific code>'
 ```
 
-I added a layer of complexity by creating a worksheet for each writing project.
+I create a worksheet for each writing project.
 I enter the number of words written and time spent on a given day in the sheet for a specific project.
 There is a column for comments where I might describe my accomplishments or problems.
 Filling in the comment column is optional.
-The tracking of accomplishments should really be done in a writing log for the specifi project.
-The use of one sheet per project allows me to get sums of both parameters by selecting the appropriate range in a column.
+The tracking of accomplishments should really be done in a writing log for the specific project.
+The use of one sheet per project allows me to get sums of either parameter by selecting the appropriate range in a column.
 The sum and other statistics are displayed in the lower right hand corner of the workbook.
 
 Please note that there is a column for notes. 
@@ -75,7 +76,7 @@ As a result of this excess writing, I was spending less time on the important no
 The average academic paper is 5000 words, so I should be able to finish one paper a week. 
 I wish.
 This would be possible if I had a lab with 50 workers.
-There is a lot more to writing scientific papers than generating text.
+There is a lot more to preparing scientific manuscripts than generating text.
 
 You can adjust these daily goals by editing the appropriate columns in the min.day and word.day sheets.
 500 words and 120 minutes per day may be more realistic goals for beginners; it depends on what works for you.
@@ -86,7 +87,7 @@ The workbook is set up for 2022.
 I will try to remember to make a new workbook for 2023.
 Otherwise, the 2022 notebook can be extended to 2023 and beyond if you want to track your effort on projects that span several years.
 You can duplicate rows 1-366 and edit them appropriatley.
-Alternatively, you can make a copy of the new version of this workbook and edited it for a fresh start at the beginning of 2023.
+Alternatively, you can make a copy of a blank version of this workbook and edited it for a fresh start at the beginning of 2023.
 
 I have included only ten projects in this demo workbook so that it is not overwhelming.
 To customize the workbook with project names, you have to relabel the project worksheets, column names, and the formulas in the min.day and word.day sheets.
@@ -94,7 +95,7 @@ To add more writing projects, duplicate a sheet and rename it.
 The formulas in the min.day and word.day sheets will update automatically.
 The code for the plots do not have to be adjusted.
 
-Most advanced academics have one to several dozen active and quiescent writing projects in the form of grant applications, research papers, review articles, seminars, and so on.
+Most advanced academics have one to several dozen active and quiescent writing projects in the form of grant applications, research papers, review articles, seminars, books, and so on.
 The presence of ten or more project sheets hinders finding the correct sheet to enter the daily progress.
 This search can take longer than making the daily entry.
 
@@ -102,11 +103,18 @@ To cope with this search problem, you can zoom out on the workbook to shrink the
 In addition, you can cluster writing projects by category, like all grant applications.
 You can also color code the tabs by the category of the writing project.
 
-I have started using a project indexing scheme that is mapped to the project's directory on my computer and to the writing project in the Overleaf web-service so that I can triple-check the identity of the project if I have forgotten what the name of the project represents. 
+I have started using a project indexing scheme that is mapped to the project's directory on my computer, to the writing project in the Overleaf web-service, and to a Google calendar dedicated to a project.
+I can triple-check the identity of the project if I have forgotten what the project number and name represents. 
 This is a common problem when working on related writing projects in parallel.
+In addition, you can use the parameters and values fields to the right of the comments field in a project's sheet to enter the project's meta data like title, directory name, and so on.
+See the example below:
+
+<p align="center"><img src="images/metadata.png" style="width: 75vw; min-width: 330px;"></p>
+
 The project indices are clustered by project type which also aids finding the correct sheet quickly.
 For example, grant applications start with index 1001 and manuscripts start with index 001.
 Five grant applications are listed first followed by five manuscripts in the min.day and word.day sheets because the grant applications are more urgent.
+You can swamp the order of these two groups of tabs; this action will not impact the sums in the words.day and min.day sheets or the generation of the bar plots.
 
 Some other mistakes that I have made include tracking my exercise activity and the other kinds of daily progress in the same workbook.
 It is best to keep the scope of the workbook narrowed to tracking writing progress.
@@ -123,7 +131,14 @@ I shortened the writing project titles to the project's index number while retai
 You can still read the labels for fifty tabs when zoomed out sufficiently.
 I usually have the project number at the front of my mind when working on a writing project, but the description in the column label can serve as a reminder. 
 You can also add the project's full title or a list of potential titles to an unused column in the project's sheet.
-Enter the "end" key of an extended keyborad to move to the end of a row to display the monthly plots along the right margin of the min.day and word.day sheets. 
+Enter the "end" key of an extended keyboard to move to the end of a row to display the monthly plots along the right margin of the min.day and word.day sheets. 
+
+Alternatively, click on the four horizontal bar icon in the lower left corner.
+This will open a scroll menu that you can use to quickly select the appropriate project.
+See the image below.
+I recommend this approach when the number of tabs becomes too large for all of them to be seen at once.
+
+<p align="center"><img src="images/scollProjects.png" style="width: 75vw; min-width: 330px;"></p>
 
 If you shorten the titles of the sheets in the tabs at the bottom of the workbook, the shortened names will be automatically updated in the cells of the min.day and word.day sheets.
 You can shuffle the order of the tabs at the bottom of the workbook without ill effect.
@@ -150,6 +165,9 @@ I stored this html file with my private homepage (index3.html) on my harddrive.
 I made a link to wordCount.html from my index3.html file.
 In a few seconds, I can click on that link and paste from my clipboard a text selection into the text area of this page and get back the word count. 
 The result of doing so with an earlier version of the first three paragraphs of this README.md is shown below.
-Reload the webpage to clear the textarea of text and prepare it for pasting in new text.
+
 
 <p align="center"><img src="images/countWords.png" style="width: 65vw; min-width: 330px;"></p>
+
+Reload the webpage to clear the textarea of text and prepare it for pasting in new text.
+One advantage of the textarea is that typos can be detected with the appropriate extensions added to your browser.
