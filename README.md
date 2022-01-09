@@ -39,7 +39,6 @@ I created a workbook of spreadsheets in Google Sheets to do the above progress t
 This workbook started out as an Excel workbook about five or six years ago.
 I fondly recalled a period when I used it daily for several months, and I made some real progress.
 I moved it to Google Sheets three years ago and made a massive revision to the layout to include the tracking of time spent because it was not enough to track words written.
-
 I store this workbook on my Google Drive.
 I add a link to this workbook to the top row of my private homepage, so I can reach this workbook with the click of a link.
 
@@ -53,7 +52,7 @@ alias openc="open -a Google\ Chrome.app"
 alias wpc='openc https://docs.google.com/spreadsheets/d/<insert workbook specific code>'
 ```
 
-I create a worksheet for each writing project.
+I created a worksheet for each writing project.
 I enter the number of words written and time spent on a given day in the sheet for a specific project.
 There is a column for comments where I might describe my accomplishments or problems.
 Filling in the comment column is optional.
@@ -93,59 +92,54 @@ You can duplicate rows 1-366 and edit them appropriatley.
 Alternatively, you can make a copy of a blank version of this workbook and edited it for a fresh start at the beginning of 2023.
 
 I have included only ten projects in this demo workbook so that it is not overwhelming.
-To customize the workbook with project names, you have to relabel the project worksheets, column names, and the formulas in the min.day and word.day sheets.
+To customize the workbook with project names, you have to relabel the project sheets and column day in the min.day and word.day sheets.
+The cell formulas in the min.day and word.day sheets will update automatically with changes in the sheet name.
+
 To add more writing projects, duplicate a sheet and rename it.
-The formulas in the min.day and word.day sheets will update automatically.
-The code for the plots do not have to be adjusted.
+Then add a column for that project in the min.day and word.day sheets and insert the correpsonding cell formulas in this column in both sheets.
+See the formulas in the existing columns for guidance.
+The parameter values for the plots do not have to be adjusted.
 
 Most advanced academics have one to several dozen active and quiescent writing projects in the form of grant applications, research papers, review articles, seminars, books, and so on.
-The presence of ten or more project sheets hinders finding the correct sheet to enter the daily progress.
-This search can take longer than making the daily entry.
+The presence of ten or more project sheets hinders finding the correct sheet to enter the daily progress by just looking at the names of the sheets along the bottom of the work book.
 
-To cope with this search problem, you can zoom out on the workbook to shrink the size of the tabs at the bottom of the workbook so that more tabs are displayed. 
-In addition, you can cluster writing projects by category, like all grant applications.
-You can also color code the tabs by the category of the writing project.
-
-I have started using a project indexing scheme that is mapped to the project's directory on my computer, to the writing project in the Overleaf web-service, and to a Google calendar dedicated to a project.
-I can triple-check the identity of the project if I have forgotten what the project number and name represents. 
-This is a common problem when working on related writing projects in parallel.
-In addition, you can use the parameters and values fields to the right of the comments field in a project's sheet to enter the project's meta data like title, directory name, and so on.
-See the example below:
-
-<p align="center"><img src="images/metadata.png" style="width: 75vw; min-width: 330px;"></p>
-
-The project indices are clustered by project type which also aids finding the correct sheet quickly.
-For example, grant applications start with index 1001 and manuscripts start with index 001.
-Five grant applications are listed first followed by five manuscripts in the min.day and word.day sheets because the grant applications are more urgent.
-You can swamp the order of these two groups of tabs; this action will not impact the sums in the words.day and min.day sheets or the generation of the bar plots.
-
-Some other mistakes that I have made include tracking my exercise activity and the other kinds of daily progress in the same workbook.
-It is best to keep the scope of the workbook narrowed to tracking writing progress.
-
-The keys to sustaining the use of this workbook are (1) to make it rapidly accessible via a link or alias and (2) to ease the finding of the specific writing project sheet in which to enter the number of words written, minutes spent, or both.
-The latter problem can be addressed by moving the tabs of the current writing projects to the left side of the workbook or by using a color code for the active writing projects.
-
-Both approaches have their drawbacks when there are numerous writing projects and some of the writing project sheet tabs are hidden.
-The hidden tabs are displayed by clicking on the arrow in the lower right.
-Keeping the labels for writing projects as short as possible allows for the display of more tabs. 
-At the default zoom level, you can see about 15 tabs.
-
-I shortened the writing project titles to the project's index number while retaining the full name in the column labels of the min.day and word.day sheets because the width of these sheets does not matter.
-You can still read the labels for fifty tabs when zoomed out sufficiently.
-I usually have the project number at the front of my mind when working on a writing project, but the description in the column label can serve as a reminder. 
-You can also add the project's full title or a list of potential titles to an unused column in the project's sheet.
-Enter the "end" key of an extended keyboard to move to the end of a row to display the monthly plots along the right margin of the min.day and word.day sheets. 
-
-Alternatively, click on the four horizontal bar icon in the lower left corner.
+Alternatively, click on the four horizontal bar icon in the lower lefthand corner.
 This will open a scroll menu that you can use to quickly select the appropriate project.
 See the image below.
 I recommend this approach when the number of tabs becomes too large for all of them to be seen at once.
 
 <p align="center"><img src="images/scollProjects.png" style="width: 75vw; min-width: 330px;"></p>
 
-If you shorten the titles of the sheets in the tabs at the bottom of the workbook, the shortened names will be automatically updated in the cells of the min.day and word.day sheets.
-You can shuffle the order of the tabs at the bottom of the workbook without ill effect.
-You should be able to do likewise for the project columns of the min.day and word.day sheets.
+
+
+
+
+To cope with this project search problem, you can also zoom out on the workbook to shrink the size of the tabs at the bottom of the workbook so that more tabs are displayed. 
+In addition, you can cluster writing projects by category, like all grant applications.
+You can also color code the tabs by the category of the writing project.
+
+I have started using a project indexing scheme that is mapped to the project's directory on my computer, to the writing project in the Overleaf web-service, and to a Google calendar dedicated to a project.
+I sometimes forgotten what the project number and name represents. 
+This is a common problem when working on related writing projects in parallel.
+To refresh your memory, you can use the parameters and values fields to the right of the comments field in a project's sheet to enter the project's meta data like title, directory name, and so on.
+See the example below:
+
+<p align="center"><img src="images/metadata.png" style="width: 75vw; min-width: 330px;"></p>
+
+The project indices are clustered by project type which also aids finding the correct sheet quickly.
+For example, manuscripts start with index 001 and grant applications start with index 1001.
+You can change the order of the tabs; this action will not impact the sums in the words.day and min.day sheets or the generation of the bar plots.
+
+The keys to sustaining the use of this workbook are (1) to make it rapidly accessible via a link or alias and (2) to ease the finding of the specific writing project sheet in which to enter the number of words written, minutes spent, or both.
+The latter problem can be addressed by using a color code for the active writing projects.
+
+Keeping the labels for writing projects as short as possible allows for the display of more tabs. 
+At the default zoom level, you can see about 15 tabs.
+I shortened the writing project sheet name to the project's index number and then rely on the metadata in the sheet to check that I have loated the .
+You can still read the labels for fifty tabs when zoomed out sufficiently.
+I usually have the project number at the front of my mind when working on a writing project, but the description in the column label can serve as a reminder. 
+You can also add the project's full title or a list of potential titles to an unused column in the project's sheet.
+Enter the `end' key of an extended keyboard to move to the end of a row to display the monthly plots along the right margin of the min.day and word.day sheets. 
 
 I have taken care of the other barrier to using the workbook, which is the coding of the monthly bar plots.
 This task can be tedious and has deterred me from using the workbook in the past when I was using Excel to edit the workbook off line.
@@ -156,14 +150,12 @@ I also find it to be more efficient to do the plot setups all at once for the en
 
 ### Word count of selected text
 
-One problem that I ran into was getting word counts for the selected text that I wrote for a specific writing project.
+One problem that I ran into was getting word counts for the selected text that I just wrote for a specific writing project.
 You can get the word count of everything in 750words.com or in an entire document on Overleaf but not of specific text selection.
-Instead, I have to paste the selected text in a fresh document in a text editor or word processor and then fetch the word count.
-This parameter can be hard to obtain from some text editors.
+On Overleaf, you have to remember to get the word count at the start and end of a writing session to get the net number of words added.
 
-A simpler and faster solution is to paste the text into a text area of a webpage that returns the word count.
-I used the third example on this [webpage of the Geeks for Geeks website](https://www.geeksforgeeks.org/how-to-make-a-word-count-in-textarea-using-javascript/).
-I paste the selected text into the text area of the attached wordCount.html file, and it reports the word count.
+A simpler and faster solution is to paste the freshly written text into a text area of a webpage that returns the word count.
+I paste the selected text into the text area of the above wordCount.html file, and it reports the word count.
 I stored this html file with my private homepage (index3.html) on my harddrive.
 I made a link to wordCount.html from my index3.html file.
 In a few seconds, I can click on that link and paste from my clipboard a text selection into the text area of this page and get back the word count. 
