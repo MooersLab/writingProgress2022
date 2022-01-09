@@ -3,7 +3,7 @@
 
 ### Synopsis
 The attached Open Office Document (WritingProgress2022tenProjectsTest.ods) can be imported into Google Sheets where it was created.
-You can also open this document in LibreOffice or OpenOffice for off-line use.
+You can also open this document in Libre Office or Open Office for off-line use.
 After spending 20-60 minutes customizing the workbook for your current and planned writing projects, 
 you should be set for tracking your writing progress for 2022.
 It should take no more than a minute a day to make the entries and to check on your monthly progress.
@@ -146,9 +146,10 @@ This parameter can be hard to obtain from some text editors.
 A simpler and faster solution is to paste the text into a text area of a webpage that returns the word count.
 I used the third example on this [webpage of the Geeks for Geeks website](https://www.geeksforgeeks.org/how-to-make-a-word-count-in-textarea-using-javascript/).
 I paste the selected text into the text area of the attached wordCount.html file, and it reports the word count.
-I stored this html file with my homepage (index3.html) on my harddrive.
+I stored this html file with my private homepage (index3.html) on my harddrive.
 I made a link to wordCount.html from my index3.html file.
 In a few seconds, I can click on that link and paste from my clipboard a text selection into the text area of this page and get back the word count. 
-The result of doing so with an earlier version of the last two paragraphs is shown below.
+The result of doing so with an earlier version of the first three paragraphs of this README.md is shown below.
+Reload the webpage to clear the textarea of text and prepare it for pasting in new text.
 
 <p align="center"><img src="images/countWords.png" style="width: 65vw; min-width: 330px;"></p>
