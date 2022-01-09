@@ -108,7 +108,7 @@ This will open a scroll menu that you can use to quickly select the appropriate 
 See the image below.
 I recommend this approach when the number of tabs becomes too large for all of them to be seen at once.
 
-<p align="center"><img src="images/scollProjects.png" style="width: 75vw; min-width: 330px;"></p>
+<p align="center"><img src="images/scollProjects.png" style="width: 50vw; min-width: 165px;"></p>
 
 
 
@@ -124,7 +124,7 @@ This is a common problem when working on related writing projects in parallel.
 To refresh your memory, you can use the parameters and values fields to the right of the comments field in a project's sheet to enter the project's meta data like title, directory name, and so on.
 See the example below:
 
-<p align="center"><img src="images/metadata.png" style="width: 75vw; min-width: 330px;"></p>
+<p align="center"><img src="images/metadata.png" style="width: 50vw; min-width: 165px;"></p>
 
 The project indices are clustered by project type which also aids finding the correct sheet quickly.
 For example, manuscripts start with index 001 and grant applications start with index 1001.
@@ -162,7 +162,7 @@ In a few seconds, I can click on that link and paste from my clipboard a text se
 The result of doing so with an earlier version of the first three paragraphs of this README.md is shown below.
 
 
-<p align="center"><img src="images/countWords.png" style="width: 65vw; min-width: 330px;"></p>
+<p align="center"><img src="images/countWords.png" style="width: 50vw; min-width: 165px;"></p>
 
 Reload the webpage to clear the textarea of text and prepare it for pasting in new text.
 One advantage of the textarea is that typos can be detected with the appropriate extensions added to your browser.
