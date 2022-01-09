@@ -33,7 +33,7 @@ A small minority of the effort behind an academic paper in the physical and biol
 
 <p align="center"><img src="images/May2020words.png" style="width: 30vw; min-width: 65px;"></p>
 
-<p align="center"><img src="images/May2020minutes.png" style="width: 40vw; min-width: 85px;"></p>
+<p align="center"><img src="images/May2020minutes.png" style="width: 30vw; min-width: 65px;"></p>
 
 I created a workbook of spreadsheets in Google Sheets to do the above progress tracking.
 This workbook started out as an Excel workbook about five or six years ago.
@@ -156,7 +156,7 @@ I made a link to wordCount.html from my index3.html file.
 In a few seconds, I can click on that link and paste from my clipboard a text selection into the text area of this page and get back the word count. 
 The result of doing so with an earlier version of the first three paragraphs of this README.md is shown below.
 
-<p align="center"><img src="images/countWords.png" style="width: 50vw; min-width: 165px;"></p>
+<p align="center"><img src="images/countWords.png" style="width: 30vw; min-width: 65px;"></p>
 
 Reload the webpage to clear the textarea of text and prepare it for pasting in new text.
 One advantage of the textarea is that typos can be detected with the appropriate extensions added to your browser.
