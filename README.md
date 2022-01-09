@@ -12,7 +12,7 @@ you should be set for tracking your writing progress for 2022.
 It should take no more than a minute a day to make the entries and to check on your monthly progress displayed as bar plots as shown below.
 Version 0.2 has the counts displayed at the right end of the bars.
 
-<p align="center"><img src="images/Jan2022progress.png" style="width: 90vw; min-width: 330px;"></p>
+<p align="center"><img src="images/Jan2022progr.png" style="width: 90vw; min-width: 330px;"></p>
 
 
 ### Details
