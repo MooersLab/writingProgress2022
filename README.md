@@ -31,7 +31,7 @@ Word count is not enough to track real progress made on vital non-generative wri
 This my beef with many writing guides for academics is that they suggest that tracking word count is sufficient. 
 A small minority of the effort behind an academic paper in the physical and biological sciences is the generation of new text. 
 
-<p align="center"><img src="images/May2020words.png" style="width: 40vw; min-width: 85px;"></p>
+<p align="center"><img src="images/May2020words.png" style="width: 30vw; min-width: 65px;"></p>
 
 <p align="center"><img src="images/May2020minutes.png" style="width: 40vw; min-width: 85px;"></p>
 
