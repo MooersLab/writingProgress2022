@@ -110,18 +110,13 @@ I recommend this approach when the number of tabs becomes too large for all of t
 
 <p align="center"><img src="images/scollProjects.png" style="width: 50vw; min-width: 165px;"></p>
 
-
-
-
-
-To cope with this project search problem, you can also zoom out on the workbook to shrink the size of the tabs at the bottom of the workbook so that more tabs are displayed. 
-In addition, you can cluster writing projects by category, like all grant applications.
+To cope with this problem of finding the correct project, you can also zoom out on the workbook to shrink the size of the tabs at the bottom of the workbook so that more tabs are displayed. 
 You can also color code the tabs by the category of the writing project.
 
-I have started using a project indexing scheme that is mapped to the project's directory on my computer, to the writing project in the Overleaf web-service, and to a Google calendar dedicated to a project.
+I use a project indexing scheme that is mapped to the project's directory on my computer, to the writing project in the Overleaf web-service, and to a Google calendar dedicated to a project.
 I sometimes forgotten what the project number and name represents. 
 This is a common problem when working on related writing projects in parallel.
-To refresh your memory, you can use the parameters and values fields to the right of the comments field in a project's sheet to enter the project's meta data like title, directory name, and so on.
+To refresh your memory, you can read the parameters and values fields to the right of the comments field in a project's sheet to enter the project's meta data like title, directory name, and so on.
 See the example below:
 
 <p align="center"><img src="images/metadata.png" style="width: 50vw; min-width: 165px;"></p>
@@ -160,7 +155,6 @@ I stored this html file with my private homepage (index3.html) on my harddrive.
 I made a link to wordCount.html from my index3.html file.
 In a few seconds, I can click on that link and paste from my clipboard a text selection into the text area of this page and get back the word count. 
 The result of doing so with an earlier version of the first three paragraphs of this README.md is shown below.
-
 
 <p align="center"><img src="images/countWords.png" style="width: 50vw; min-width: 165px;"></p>
 
