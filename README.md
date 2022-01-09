@@ -3,7 +3,7 @@
 
 ### Synopsis
 The attached Open Office Document (WritingProgress2022tenProjectsTest.ods) can be imported into Google Sheets where it was created.
-You can also open this docment in LibreOffice or OpenOffice for off-line use.
+You can also open this document in LibreOffice or OpenOffice for off-line use.
 After spending 20-60 minutes customizing the workbook for your current and planned writing projects, 
 you should be set for tracking your writing progress for 2022.
 It should take no more than a minute a day to make the entries and to check on your monthly progress.
