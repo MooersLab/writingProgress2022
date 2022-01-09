@@ -134,10 +134,10 @@ The latter problem can be addressed by using a color code for the active writing
 
 Keeping the labels for writing projects as short as possible allows for the display of more tabs. 
 At the default zoom level, you can see about 15 tabs.
-I shortened the writing project sheet name to the project's index number and then rely on the metadata in the sheet to check that I have loated the .
 You can still read the labels for fifty tabs when zoomed out sufficiently.
-I usually have the project number at the front of my mind when working on a writing project, but the description in the column label can serve as a reminder. 
-You can also add the project's full title or a list of potential titles to an unused column in the project's sheet.
+I am now using the scroll menu in the lower lefthand corner to find the project sheet to open.
+I shortened the writing project sheet name to the project's index number, and I now rely on the metadata in the sheet to check that I have opened the correct sheet.
+I usually have the project number at the front of my mind when working on a writing project, but metadata in the sheet is a good sanity check.
 Enter the `end' key of an extended keyboard to move to the end of a row to display the monthly plots along the right margin of the min.day and word.day sheets. 
 
 I have taken care of the other barrier to using the workbook, which is the coding of the monthly bar plots.
