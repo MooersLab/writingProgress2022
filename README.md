@@ -12,23 +12,11 @@ The attached Open Office Document (WritingProgress2022tenProjectsTest.ods) can b
 
 ### Details
 
-My writing projects are generally too large to finish in a day, week, or month, let alone a year.
-I find that tracking my writing progress helps me to sustain my writing efforts.
-The simplest way to do this is to track the lump sum number of words written for the day, minutes spent, or both.
+My writing projects are generally too large to finish in a day, week, or month, let alone a year. I find that tracking my writing progress helps me to sustain my writing efforts. The simplest way to do this is to track the lump sum number of words written for the day, minutes spent, or both.
 
-I track both because often a lot of other work has to be done other than generating new words.
-I display these values side-by-side with my goal in bar plots.
-When one or both parameters exceed my goals, I get a sense of satisfaction.
-When one or both parameters are lagging behind my goal, I redouble my efforts.
-The bar plots display the progress by month because the bar plots become too unwieldy for longer periods of time.
-Having to start over at zero at the start of each month is admittedly depressing, but it is also a chance to renew your commitment to your writing goals.
-One alternative would be to display the progress by semester.
+I track both because often, a lot of other work has to be done other than generating new words. I display these values side-by-side with my goal in bar plots. When one or both parameters exceed my goals, I get a sense of satisfaction. When one or both parameters are lagging behind my goal, I redouble my efforts. The bar plots display the progress by month because the bar plots become too unwieldy for longer periods of time. Having to start over at zero at the start of each month is admittedly depressing, but it is also a chance to renew your commitment to your writing goals. One alternative would be to display the progress by semester.
 
-Below are real examples from May 2020. 
-Note how I exceeded the time goal while lagging behind on the word goal.
-Word count is not enough to track real progress made on vital non-generative writing activities related to the writing project.
-This my beef with many writing guides for academics is that they suggest that tracking word count is sufficient. 
-A small minority of the effort behind an academic paper in the physical and biological sciences is the generation of new text. 
+Below are real examples from May 2020. Note how I exceeded the time goal while lagging behind on the word goal. Word count is not enough to track real progress made on vital non-generative writing activities related to the writing project. My beef with many writing guides for academics is that they suggest that tracking word count is sufficient. A small minority of the effort behind an academic paper in the physical and biological sciences is the generation of new text.
 
 <p align="center"><img src="images/May2020words.png" style="width: 30vw; min-width: 65px;"></p>
 
