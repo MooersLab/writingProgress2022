@@ -22,17 +22,9 @@ Below are real examples from May 2020. Note how I exceeded the time goal while l
 
 <p align="center"><img src="images/May2020minutes.png" style="width: 30vw; min-width: 65px;"></p>
 
-I created a workbook of spreadsheets in Google Sheets to do the above progress tracking.
-This workbook started out as an Excel workbook about five or six years ago.
-I fondly recalled a period when I used it daily for several months, and I made some real progress.
-I moved it to Google Sheets three years ago and made a massive revision to the layout to include the tracking of time spent because it was not enough to track words written.
-I store this workbook on my Google Drive.
-I add a link to this workbook to the top row of my private homepage, so I can reach this workbook with the click of a link.
+I created a workbook of spreadsheets in Google Sheets to do the above progress tracking. This workbook started out as an Excel workbook about five or six years ago. I fondly recalled a period when I used it daily for several months, and I made some real progress. I moved it to Google Sheets three years ago and made a massive revision to the layout to include the tracking of time spent because it was not enough to track words written. I store this workbook on my Google Drive. I add a link to this workbook to the top row of my private homepage, so I can reach this workbook with the click of a link.
 
-You can also make a bash alias to open the workbook in a webrowser by entering the alias name on the command line.
-For example, I open my writing progress workbook in Google Chrome by entering `wpc'. 
-I have similar aliases for other browsers like wps for use with Safari and wpf for use with FireFox.
-Here is an example of the bash code that can be customized and added to your .bashrc or .zshrc file:
+You can also make a bash alias to open the workbook in a browser by entering the alias name on the command line. For example, I open my writing progress workbook in Google Chrome by entering `wpc'. I have similar aliases for other browsers like `wps' for use with Safari and `wpf' for use with Firefox. Here is an example of the bash code that can be customized and added to your `.bashrc' or `.zshrc' file:
 
 ```bash
 alias openc="open -a Google\ Chrome.app"
