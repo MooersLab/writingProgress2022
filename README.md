@@ -5,12 +5,7 @@
 ## Workbook to track progress on writing projects with automated bar plots
 
 ### Synopsis
-The attached Open Office Document (WritingProgress2022tenProjectsTest.ods) can be imported into Google Sheets where it was created.
-You can also open this document in Libre Office or Open Office for off-line use.
-After spending 20-60 minutes customizing the workbook for your current and planned writing projects, 
-you should be set for tracking your writing progress for 2022.
-It should take no more than a minute a day to make the entries and to check on your monthly progress displayed as bar plots as shown below.
-Version 0.2 has the counts displayed at the right end of the bars.
+The attached Open Office Document (WritingProgress2022tenProjectsTest.ods) can be imported into Google Sheets, where it was created. You can also open this document in Libre Office or Open Office for offline use. After spending 20-60 minutes customizing the workbook for your current and planned writing projects, you should be set for tracking your writing progress for 2022. It should take no more than a minute a day to make the entries and to check on your monthly progress displayed as bar plots, as shown below. Version 0.2 has the counts displayed at the right end of the bars.
 
 <p align="center"><img src="images/Jan2022progr.png" style="width: 90vw; min-width: 330px;"></p>
 
