@@ -144,17 +144,17 @@ I also added links to related writing projects near the top of the writing log a
 12. Paste the above newly generated text into wordCount.html.
 13. Add the project to your progress tracker: writingProgress2022.
          
-       + Duplicate a project sheet and rename it with the project number.
-       + Customize the parameters for the sheet: Title, directory name,  link to the Overleaf project, links to related overleaf projects. 
-       + Add Overleaf links to related projects
-       + Add columns to min.day and words.day sheets.
-       + Add the codes to the min.day and word.day cells. The first uses column F, and the second uses column G.
-       + Add your word count and minutes from the above writing.
-       + Check that the daily sums are working.
-       + Check that the plots are functioning.
+       1. Duplicate a project sheet and rename it with the project number.
+       2. Customize the parameters for the sheet: Title, directory name,  link to the Overleaf project, links to related overleaf projects. 
+       3. Add Overleaf links to related projects
+       4. Add columns to min.day and words.day sheets.
+       5. Add the codes to the min.day and word.day cells. The first uses column F, and the second uses column G.
+       6. Add your word count and minutes from the above writing.
+       7. Check that the daily sums are working.
+       8. Check that the plots are functioning.
 
 14. Add project directory on your local hard drive.
-15. Run the setupManuscript script to create the subfolders that you typically use in a manuscript project. See above script. I have this script mapped to an alias called setupManuscirpt.
+15. Run the ![setupManuscript script](https://github.com/MooersLab/setup-manuscript/blob/main/README.md) to create the subfolders that you typically use in a manuscript project.
 16.  **[optional]** Clone the Overleaf project with git to the project's local directory.
 17.  **[optional]** Add project as a new calendar to Google Calendar.
 18.  **[optional]** Add link to Overleaf project to your private homepage.
