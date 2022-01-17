@@ -109,7 +109,7 @@ The protocol is useful for getting back on the bandwagon after you fall off.
 
 ## Advice for when you fall behind
 
-Stuff happens (e.g., lecturing, seminars, travel, meetings, lab work, too much YouTube, and so on), and you may fall behind on your word count goal for the month. 
+Stuff happens (e.g., progress reports, lecture preparation, seminars, travel, meetings, e-mail, lab work, illness, burnout, and so on), and you may fall behind on your word count goal for the month. 
 If the difference is more than 1000 words, you will have trouble catching up in a single day.
 It is hard to recover from a writing marathon where you generate 5000-7000 words in one day.
 Instead, divide the difference by the number of remaining days in a month.
