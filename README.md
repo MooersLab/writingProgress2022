@@ -132,37 +132,37 @@ I also added links to related writing projects near the top of the writing log a
 
 
 
-    \item Assign project number, a tentative title, and directory name in 10Kproject Google Sheet or whatever you use to inventory your writing projects.
-    \item Copy a similar Overleaf project and rename it.
-    \item Customize the writing.log by rewriting the rationale for the project.
-    \item Add links to related project to writing.log.
-    \item Change the title of the AnnotatedBibliography.
-    \item Customize the manuscript document by changing the title.
-    \item [optional] Draft a rationale for the project at the top of the writing log.
-    \item [optional] Draft a two-paragraph Introduction for the manuscript. Build it around a central hypothesis (or objective for a methods paper). I follow the formula for Introductions laid out by David Lindsay in the book "Scientific Writing = Thinking in Words".
-    \item [optional] Draft the Abstract.
-    \item [optional] Draft a list of alternate titles (avoid colons, limit to one line)
-    \item [optional] Draft a list of keywords
-    \item Paste the above newly generated text into wordCount.html.
-    \item Add the project to your progress tracker: WritingProgress2022.
-        \begin{enumerate} 
-        \item Duplicate a project sheet and rename it with the project number.
-        \item Customize the parameters for the sheet: Title, directory name,  link to the Overleaf project, links to related overleaf projects. 
-        \item Add Overleaf links to related projects
-        \item Add columns to min.day and words.day sheets.
-        \item Add the codes to the min.day and word.day cells. The first uses column F, and the second uses column G.
-        \item Add your word count and minutes from the above writing.
-        \item Check that the daily sums are working.
-        \item Check that the plots are functioning.
-        \end{enumerate} 
-    \item Add project directory on your local hard drive.
-    \item Run the setupManuscript script.
-    \item Clone the Overleaf project with git to the project's local directory.
-    \item Add project as a new calendar to Google Calendar.
-    \item Add link to Overleaf project to your private homepage.
-    \item Update the writing.log with your accomplishments.
-    \item Update the list of planned actions.
-    \item Update gCal using the new calendar.
+1. Assign project number, a tentative title, and directory name in a Google Sheet or whatever you use to inventory your writing projects.
+2. Copy a similar Overleaf project and rename it.
+3. Customize the writing.log by rewriting the rationale for the project.
+4. Add links to related project to writing.log.
+5. Change the title of the AnnotatedBibliography. Delete the old entries in annote.bib.
+6. Customize the manuscript document by changing the title.
+7. [optional] Draft a rationale for the project at the top of the writing log.
+8. [optional] Draft a two-paragraph Introduction for the manuscript. Build it around a central hypothesis (or objective for a methods paper). I follow the formula for Introductions laid out by David Lindsay in the book "Scientific Writing = Thinking in Words".
+9. [optional] Draft the Abstract.
+10. [optional] Draft a list of alternate titles (avoid colons, limit to one line)
+11. [optional] Draft a list of keywords
+12. Paste the above newly generated text into wordCount.html.
+13. Add the project to your progress tracker: writingProgress2022.
+         
+       + Duplicate a project sheet and rename it with the project number.
+       + Customize the parameters for the sheet: Title, directory name,  link to the Overleaf project, links to related overleaf projects. 
+       + Add Overleaf links to related projects
+       + Add columns to min.day and words.day sheets.
+       + Add the codes to the min.day and word.day cells. The first uses column F, and the second uses column G.
+       + Add your word count and minutes from the above writing.
+       + Check that the daily sums are working.
+       + Check that the plots are functioning.
+
+14. Add project directory on your local hard drive.
+15. Run the setupManuscript script to create the subfolders that you typically use in a manuscript project. See above script. I have this script mapped to an alias called setupManuscirpt.
+16. [optional] Clone the Overleaf project with git to the project's local directory.
+17. [optional] Add project as a new calendar to Google Calendar.
+18. [optional] Add link to Overleaf project to your private homepage.
+19. [optional]  Update the writing.log with your accomplishments.
+20. [optional]  Update the list of planned actions.
+21. [optional] Update gCal using the new calendar.
 \end{enumerate}
 
 The above optional steps that involve generating text will customize the project.
