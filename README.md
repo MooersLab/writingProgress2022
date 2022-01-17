@@ -81,7 +81,7 @@ A simpler and faster solution is to paste the freshly written text into a text a
 
 Reload the webpage to clear the textarea of the old text and prepare it for new text. One advantage of the text area is that typos can be detected if you have grammar and spellchecker extensions added to your browser.
 
-## Daily protocol for adding progress to a project in the WritingProgress workbook
+## Daily protocol for adding progress to a project in the writingProgress2022
 
 Below is the daily protocol for adding minutes spent and words written to the WritingProgress2022 Google Workbook.
 The essential steps will become second nature with practice, but having a written protocol nearby can save time.
@@ -89,21 +89,22 @@ The essential steps will become second nature with practice, but having a writte
 Several optional steps may not apply to your situation.
 Amend the protocol to suit your workflow.
 I strongly recommend using the writing log to keep track of your accomplishments and planned actions.
-The goal is to practive the steps until they are automatic.
-The protocol is useful for getting back on the bandwagon if you fall off.
+
+The goal is to practive the steps fo the protocol until they are automatic.
+The protocol is useful for getting back on the bandwagon after you fall off.
 
 
 1. Fetch word count and minutes spent
 2. Open the WritingProgress2022.
 3. Navigate to the project sheet via the sheet scroll menu in the lower left.
 4. Enter your day's data in the Minutes and Words column.
-5. [optional] Add a brief comment about your accomplishments.
+5.  **[optional]** Add a brief comment about your accomplishments.
 6.  Navigate to min.day and check for the presence of **#REF!** in the daily total. This error means that a cell formula in the min.day sheet may be absent or miscoded. The errant cell will also display **#REF!**. Fix the code by checking cells above or below for the formula format (e.g., `=('tab name'!F2)` ). 
 7.  Check the bar plot.
 8.  Repeat the above two steps with word.day. The correct formula is `=('tab name'!G2)`
-9. [optional] Update gCal using the project calendar.
-10.  [optional] Update your writing.log for the project.
-11. [optional] Run `git clone' on the writing project from the appropriate folder if you are using Overleaf. Having a current copy available locally when you lack an internet connection is useful.
+9. **[optional]** Update gCal using the project calendar.
+10.  **[optional]** Update your writing.log for the project.
+11. **[optional]** Run `git clone' on the writing project from the appropriate folder if you are using Overleaf. Having a current copy available locally when you lack an internet connection is useful.
 
 
 ## Advice for when you fall behind
@@ -116,10 +117,7 @@ Add the quotient to your daily goal.
 An updated daily goal of under 2000 is sustainable for a week or two.
 Take care to avoid burnout by pushing too hard.
 
-
-
-## Protocol for adding a new project to the writingProgress2022
-
+## Protocol for adding a new project to writingProgress2022
 
 These steps become routine when adding a batch of writing projects to WritingProgressWorkbook during the initial setup.
 However, it is easy to overlook a step later because of the many steps involved.
@@ -138,11 +136,11 @@ I also added links to related writing projects near the top of the writing log a
 4. Add links to related project to writing.log.
 5. Change the title of the AnnotatedBibliography. Delete the old entries in annote.bib.
 6. Customize the manuscript document by changing the title.
-7. [optional] Draft a rationale for the project at the top of the writing log.
-8. [optional] Draft a two-paragraph Introduction for the manuscript. Build it around a central hypothesis (or objective for a methods paper). I follow the formula for Introductions laid out by David Lindsay in the book "Scientific Writing = Thinking in Words".
-9. [optional] Draft the Abstract.
-10. [optional] Draft a list of alternate titles (avoid colons, limit to one line)
-11. [optional] Draft a list of keywords
+7.  **[optional]** Draft a rationale for the project at the top of the writing log.
+8.  **[optional]** Draft a two-paragraph Introduction for the manuscript. Build it around a central hypothesis (or objective for a methods paper). I follow the formula for Introductions laid out by David Lindsay in the book "Scientific Writing = Thinking in Words".
+9.  **[optional]** Draft the Abstract.
+10.  **[optional]** Draft a list of alternate titles (avoid colons, limit to one line)
+11.  **[optional]** Draft a list of keywords
 12. Paste the above newly generated text into wordCount.html.
 13. Add the project to your progress tracker: writingProgress2022.
          
@@ -157,13 +155,13 @@ I also added links to related writing projects near the top of the writing log a
 
 14. Add project directory on your local hard drive.
 15. Run the setupManuscript script to create the subfolders that you typically use in a manuscript project. See above script. I have this script mapped to an alias called setupManuscirpt.
-16. [optional] Clone the Overleaf project with git to the project's local directory.
-17. [optional] Add project as a new calendar to Google Calendar.
-18. [optional] Add link to Overleaf project to your private homepage.
-19. [optional]  Update the writing.log with your accomplishments.
-20. [optional]  Update the list of planned actions.
-21. [optional] Update gCal using the new calendar.
-\end{enumerate}
+16.  **[optional]** Clone the Overleaf project with git to the project's local directory.
+17.  **[optional]** Add project as a new calendar to Google Calendar.
+18.  **[optional]** Add link to Overleaf project to your private homepage.
+19.  **[optional]**  Update the writing.log with your accomplishments.
+20.  **[optional]**  Update the list of planned actions.
+21. **[optional]** Update gCal using the new calendar.
+
 
 The above optional steps that involve generating text will customize the project.
 This customization will help to distinguish a project from related writing projects.
