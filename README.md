@@ -24,7 +24,7 @@ Below are real examples from May 2020. Note how I exceeded the time goal while l
 
 I created a workbook of spreadsheets in Google Sheets to do the above progress tracking. This workbook started out as an Excel workbook about five or six years ago. I fondly recalled a period when I used it daily for several months, and I made some real progress. I moved it to Google Sheets three years ago and made a massive revision to the layout to include the tracking of time spent because it was not enough to track words written. I store this workbook on my Google Drive. I add a link to this workbook to the top row of my private homepage, so I can reach this workbook with the click of a link.
 
-You can also make a bash alias to open the workbook in a browser by entering the alias name on the command line. For example, I open my writing progress workbook in Google Chrome by entering `wpc'. I have similar aliases for other browsers like `wps' for use with Safari and `wpf' for use with Firefox. Here is an example of the bash code that can be customized and added to your `.bashrc' or `.zshrc' file:
+You can also make a bash alias to open the workbook in a browser by entering the alias name on the command line. For example, I open my writing progress workbook in Google Chrome by entering **wpc***. I have similar aliases for other browsers like ***wps*** for use with Safari and ***wpf*** for use with Firefox. Here is an example of the bash code that can be customized and added to your ***.bashrc*** or ***.zshrc*** file:
 
 ```bash
 alias openc="open -a Google\ Chrome.app"
@@ -37,7 +37,7 @@ Please note that there is a column for notes. I might have been trying to track 
 
 The daily entries from each project are automatically summed and stored in the `min.day' and `word.day' sheets. The cumulative sums are automatically displayed by month in the horizontal bar plots along the right margin of the `min.day' and `word.day'  sheets. The cumulative sums are shown side-by-side with my goal for each day: 240 minutes and 1000 words.
 
-I selected 240 minutes because this is the maximum amount of time that professional writers spend a day generating new text. Of course, you can spend 720 minutes in a day on the writing-related tasks of figure making or data analysis. You can also make steady progress with as little as 20 minutes a day, especially if you have only one writing project.
+I selected 240 minutes because this is the maximum amount of time that professional writers spend per day generating new text. Of course, you can spend 720 minutes in a day on the writing-related tasks of figure making or data analysis. You can also make steady progress with as little as 20 minutes a day, especially if you have only one writing project.
 
 I selected 1000 words per day as a goal because higher goals like 2000 words per day drove me to write too much text, most of which I will never publish. As a result of this excess writing, I was spending less time on the important non-generative writing-related tasks like making figures, editing the text, reading-related papers, data analysis, and the many other activities that advance a writing project. The average academic paper is 5000 words, so I should be able to finish one paper a week.  I wish. This would be possible if I had a lab with 50 workers. There is a lot more to preparing scientific manuscripts than generating text.
 
@@ -65,7 +65,7 @@ The project indices are clustered by project type, which also aids in finding th
 
 The keys to sustaining the use of this workbook are (1) to make it rapidly accessible via a link or alias and (2) to ease the finding of the specific writing project sheet in which to enter the number of words written, minutes spent, or both.The latter problem can be addressed by using a color code for the active writing projects.
 
-Keeping the labels for writing projects as short as possible allows for the display of more tabs. At the default zoom level, you can see about 15 tabs. You can still read the labels for fifty tabs when zoomed out sufficiently. I am now using the scroll menu in the lower lefthand corner to find the project sheet to open. I shortened the writing project sheet name to the project's index number, and I now rely on the metadata in the sheet to check that I have opened the correct sheet. I usually have the project number at the front of my mind when working on a writing project, but metadata in the sheet is a good sanity check.Enter the `end' key of an extended keyboard to move to the end of a row to display the monthly plots along the right margin of the `min.day'  and `word.day' sheets.  
+Keeping the labels for writing projects as short as possible allows for the display of more tabs. At the default zoom level, you can see about 15 tabs. You can still read the labels for fifty tabs when zoomed out sufficiently. I am now using the scroll menu in the lower lefthand corner to find the project sheet to open. I shortened the writing project sheet name to the project's index number, and I now rely on the metadata in the sheet to check that I have opened the correct sheet. I usually have the project number at the front of my mind when working on a writing project, but metadata in the sheet are a good sanity check. Enter the ***end*** key of an extended keyboard to move to the end of a row to display the monthly plots along the right margin of the ***min.day***  and ***word.day*** sheets.  
                                               
 I have removed the other barrier to using the workbook, which is the coding of the monthly bar plots. This task can be tedious and has deterred me from using the workbook in the past when I was using Excel to edit the workbook offline. I had trouble recalling how to edit the data ranges at the start of each month. 
                                                                                                                                        
@@ -73,7 +73,7 @@ Fear of expending effort on this task set up a motivation barrier. I have since 
 
 ### Word count of selected text
 
-One problem that I ran into was getting word counts for the selected text that I had just written for a specific writing project. You can get the word count of everything in 750words.com or in an entire document on Overleaf but not of specific text selection. On Overleaf, you have to remember to get the word count at the start and end of a writing session to get the net number of words added.
+One problem that I ran into was getting word counts for the selected text that I had just written for a specific writing project. You can get the word count of everything in 750words.com or in an entire document on Overleaf but not of specific text selection. On Overleaf, you have to remember to get the word count at the start and end of a writing session to get the net number of new words added.
 
 A simpler and faster solution is to paste the freshly written text into a text area of a webpage that returns the word count. I paste the selected text into the text area of the above wordCount.html file, and it reports the word count. I stored this HTML file with my private homepage (index3.html) on my hard drive. I made a link to wordCount.html from my index3.html file. In a few seconds, I can click on that link and paste from my clipboard a text selection into the text area of this page and get back the word count. The result of doing so with an earlier version of the first three paragraphs of this README.md file is shown below.
 
@@ -90,18 +90,18 @@ Several optional steps may not apply to your situation.
 Amend the protocol to suit your workflow.
 I strongly recommend using the writing log to keep track of your accomplishments and planned actions.
 
-The goal is to practive the steps fo the protocol until they are automatic.
+The goal is to practive the steps of the protocol until they are automatic.
 The protocol is useful for getting back on the bandwagon after you fall off.
 
 
 1. Fetch word count and minutes spent
 2. Open the WritingProgress2022.
 3. Navigate to the project sheet via the sheet scroll menu in the lower left.
-4. Enter your day's data in the Minutes and Words column.
+4. Enter your day's data in the Minutes and Words columns.
 5.  **[optional]** Add a brief comment about your accomplishments.
 6.  Navigate to min.day and check for the presence of **#REF!** in the daily total. This error means that a cell formula in the min.day sheet may be absent or miscoded. The errant cell will also display **#REF!**. Fix the code by checking cells above or below for the formula format (e.g., `=('tab name'!F2)` ). 
 7.  Check the bar plot.
-8.  Repeat the above two steps with word.day. The correct formula is `=('tab name'!G2)`
+8.  Repeat the above two steps with word.day. The correct formula is ***=('tab name'!G2)***.
 9. **[optional]** Update gCal using the project calendar.
 10.  **[optional]** Update your writing.log for the project.
 11. **[optional]** Run `git clone' on the writing project from the appropriate folder if you are using Overleaf. Having a current copy available locally when you lack an internet connection is useful.
@@ -109,7 +109,7 @@ The protocol is useful for getting back on the bandwagon after you fall off.
 
 ## Advice for when you fall behind
 
-Stuff happens (e.g., progress reports, lecture preparation, seminars, travel, meetings, e-mail, lab work, illness, burnout, and so on), and you may fall behind on your word count goal for the month. 
+Stuff happens (e.g., progress reports, lecture preparation, seminars, travel, meetings, e-mail, lab work, illness, unexpected visitors, burnout, and so on), and you may fall behind on your word count goal for the month. 
 If the difference is more than 1000 words, you will have trouble catching up in a single day.
 It is hard to recover from a writing marathon where you generate 5000-7000 words in one day.
 Instead, divide the difference by the number of remaining days in a month.
@@ -164,6 +164,6 @@ I also added links to related writing projects near the top of the writing log a
 
 
 The above optional steps that involve generating text will customize the project.
-This customization will help to distinguish a project from related writing projects.
+This customization will help to distinguish one project from related writing projects.
 This customization is critical when you draft several similar writing projects in parallel because it reduces the likelihood of duplicating a writing project during the early stages of their development.
 
