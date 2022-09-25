@@ -172,3 +172,6 @@ The above optional steps that involve generating text will customize the project
 This customization will help to distinguish one project from related writing projects.
 This customization is critical when you draft several similar writing projects in parallel because it reduces the likelihood of duplicating a writing project during the early stages of their development.
 
+## Related links
+
+- [The writer's law](https://github.com/MooersLab/thewriterslaw)
