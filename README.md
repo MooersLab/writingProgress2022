@@ -1,7 +1,7 @@
 ![Version](https://img.shields.io/static/v1?label=writingProgress2022&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# Workbook to track progress on writing projects with automated bar plots
+# Workbook to track progress on writing projects with bar plots
 
 ## Synopsis
 The attached Open Office Document (WritingProgress2022tenProjectsTest.ods) can be imported into Google Sheets, where it was created. 
