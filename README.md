@@ -154,7 +154,7 @@ I also added links to related writing projects near the top of the writing log a
        8. Check that the plots are functioning.
 
 14. Add project directory on your local hard drive.
-15. Run the ![setupManuscript script](https://github.com/MooersLab/setup-manuscript/blob/main/README.md) to create the subfolders that you typically use in a manuscript project.
+15. Run the [setupManuscript script](https://github.com/MooersLab/setup-manuscript/blob/main/README.md) to create the subfolders that you typically use in a manuscript project.
 16.  **[optional]** Clone the Overleaf project with git to the project's local directory.
 17.  **[optional]** Add project as a new calendar to Google Calendar.
 18.  **[optional]** Add link to Overleaf project to your private homepage.
