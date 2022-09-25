@@ -156,12 +156,14 @@ I also added links to related writing projects near the top of the writing log a
 14. Add project directory on your local hard drive.
 15. Run the [setupManuscript script](https://github.com/MooersLab/setup-manuscript/blob/main/README.md) to create the subfolders that you typically use in a manuscript project.
 16.  **[optional]** Clone the Overleaf project with git to the project's local directory.
-17.  **[optional]** Add project as a new calendar to Google Calendar.
+17.  **[optional]** Add project as a new calendar to Google Calendar. 
 18.  **[optional]** Add link to Overleaf project to your private homepage.
-19.  **[optional]**  Update the writing.log with your accomplishments.
-20.  **[optional]**  Update the list of planned actions.
-21. **[optional]** Update gCal using the new calendar.
+19.  **[optional]** Update the writing.log with your accomplishments.
+20.  **[optional]** Update the list of planned actions.
+21.  **[optional]** Update gCal using the new calendar.
 
+After several hundred calendars have accummulated, Google Calendar becomes very slow.
+I migrated to using a Google Sheet and project IDs to track my time in April 2022.
 
 The above optional steps that involve generating text will customize the project.
 This customization will help to distinguish one project from related writing projects.
