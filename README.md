@@ -74,7 +74,7 @@ I have removed the other barrier to using the workbook, which is the coding of t
                                                                                                                                        
 Fear of expending effort on this task set up a motivation barrier. I have since found that the setting up of the plots is easier in Google Sheets than in Excel. I also find it to be more efficient to do the plot setups all at once for the entire year.
 
-### Word count of selected text
+## Word count of selected text
 
 One problem that I ran into was getting word counts for the selected text that I had just written for a specific writing project. You can get the word count of everything in 750words.com or in an entire document on Overleaf but not of specific text selection. On Overleaf, you have to remember to get the word count at the start and end of a writing session to get the net number of new words added.
 
@@ -84,7 +84,7 @@ A simpler and faster solution is to paste the freshly written text into a text a
 
 Reload the webpage to clear the textarea of the old text and prepare it for new text. One advantage of the text area is that typos can be detected if you have grammar and spellchecker extensions added to your browser.
 
-## Daily protocol for adding progress to a project in the writingProgress2022
+# Daily protocol for adding progress to a project in the writingProgress2022
 
 Below is the daily protocol for adding minutes spent and words written to the WritingProgress2022 Google Workbook.
 The essential steps will become second nature with practice, but having a written protocol nearby can save time.
@@ -110,7 +110,7 @@ The protocol is useful for getting back on the bandwagon after you fall off.
 11. **[optional]** Run `git clone' on the writing project from the appropriate folder if you are using Overleaf. Having a current copy available locally when you lack an internet connection is useful.
 
 
-## Advice for when you fall behind
+# Advice for when you fall behind
 
 Stuff happens (e.g., progress reports, lecture preparation, seminars, travel, meetings, e-mail, lab work, illness, unexpected visitors, burnout, and so on), and you may fall behind on your word count goal for the month. 
 If the difference is more than 1000 words, you will have trouble catching up in a single day.
@@ -120,7 +120,7 @@ Add the quotient to your daily goal.
 An updated daily goal of under 2000 is sustainable for a week or two.
 Take care to avoid burnout by pushing too hard.
 
-## Protocol for adding a new project to writingProgress2022
+# Protocol for adding a new project to writingProgress2022
 
 These steps become routine when adding a batch of writing projects to WritingProgressWorkbook during the initial setup.
 However, it is easy to overlook a step later because of the many steps involved.
@@ -173,7 +173,7 @@ This customization will help to distinguish one project from related writing pro
 This customization is critical when you draft several similar writing projects in parallel because it reduces the likelihood of duplicating a writing project during the early stages of their development.
 
 
-# Protocol for updaring the workbook for the new year (20-30 minutes)
+# Protocol for updating the workbook for the new year (20-30 minutes)
 
 Now that you have customized the workbook, you have made a significant investment.
 You have added columns for new projects and maybe deleted columns for closed projects.
@@ -194,6 +194,6 @@ The following protocol will conserve your investment as you move into the new ye
 
 
 
-## Related links
+# Related links
 
 - [The writer's law](https://github.com/MooersLab/thewriterslaw)
