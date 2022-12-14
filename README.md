@@ -172,6 +172,28 @@ The above optional steps that involve generating text will customize the project
 This customization will help to distinguish one project from related writing projects.
 This customization is critical when you draft several similar writing projects in parallel because it reduces the likelihood of duplicating a writing project during the early stages of their development.
 
+
+# Protocol for updaring the workbook for the new year (20-30 minutes)
+
+Now that you have customized the workbook, you have made a significant investment.
+You have added columns for new projects and maybe deleted columns for closed projects.
+The following protocol will conserve your investment as you move into the new year.
+
+1. Open the workbook in Google Sheets.
+2. Under File, duplicate the workbook and rename it in the process.
+3. Select min.day sheet.
+4. Change the year in cells A2:A366.
+5. Update the day of the week in Column D.
+6. Delete the values in the cells I2 to X366, where X is the rightmost column with minute data.
+7. Update the year in the titles of the bar plots in the right margin.
+8. Select the word.day sheet and repeat steps 3-7.
+
+**You are now ready for the new year!!!!** :)
+
+
+
+
+
 ## Related links
 
 - [The writer's law](https://github.com/MooersLab/thewriterslaw)
