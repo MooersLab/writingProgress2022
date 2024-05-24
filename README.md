@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=writingProgress2022&message=0.2&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=writingProgress2022&message=0.3&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # Workbook to track progress on writing projects with bar plots
@@ -17,7 +17,7 @@ Version 0.2 has the counts displayed at the right end of the bars.
 
 My writing projects are generally too large to finish in a day, week, or month, let alone a year. I find that tracking my writing progress helps me to sustain my writing efforts. The simplest way to do this is to track the lump sum number of words written for the day, minutes spent, or both.
 
-I track both because much work often must be done other than generating new words. I display these values side-by-side with my goal in bar plots. When one or both parameters exceed my goals, I feel satisfied. When one or both parameters lag behind my goal, I redouble my efforts. The bar plots display the progress by month because the bar plots become too unwieldy for longer periods of time. Starting over at zero at the start of each month is admittedly depressing, but it is also a chance to renew your commitment to your writing goals. One alternative would be to display the progress by semester.
+I track both because much work must be done other than generating new words. I display these values side-by-side with my goal in bar plots. When one or both parameters exceed my goals, I feel satisfied. When one or both parameters lag behind my goal, I redouble my efforts. The bar plots display the progress by month because the bar plots become too unwieldy for longer periods of time. Starting over at zero at the start of each month is admittedly depressing, but it is also a chance to renew your commitment to your writing goals. One alternative would be to display the progress by semester.
 
 Below are real examples from May 2020. Note how I exceeded the time goal while lagging behind on the word goal. Word count is insufficient to track progress made on vital non-generative writing activities related to the writing project. My beef with many writing guides for academics is that they suggest that tracking word count is sufficient. A small minority of the effort behind an academic paper in the physical and biological sciences is the generation of new text.
 
@@ -194,4 +194,16 @@ The following protocol will conserve your investment as you move into the new ye
 
 - [The writer's law](https://github.com/MooersLab/thewriterslaw)
 
-- 
+## Update history
+
+|Version      | Changes                                                                                                                                    | Date                 |
+|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Version 0.3 |   Added funding and update table. Made numerous edits of the README.md to improve its readability.                                         | 2024 May 24          |
+
+
+## Sources of funding
+
+- NIH: R01 CA242845
+- NIH: R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel)
+- NIH: P20 GM103640 and P30 GM145423 (PI: A. West)
